@@ -9,3 +9,5 @@ Input Format: A file with n lines; each line has n numbers separated by tab.
 
 # Constraints: n>3
 The code should work with any n.
+
+# Python3.6
